@@ -30,11 +30,6 @@
 - Developed automation systems reducing operational cost by 70%  
 - Cleaned & analyzed datasets with 200k+ rows using Pandas  
 - Designed and deployed full AI pipelines
-
-**Data Science Bootcamp** @ Coding Blocks (Oct 2023 – Apr 2024)  
-- Built and deployed end-to-end ML & DL solutions  
-- Fine-tuned ResNet achieving 70%+ accuracy on custom datasets
-
 ---
 
 ### 🏆 Achievements
