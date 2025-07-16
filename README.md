@@ -38,7 +38,7 @@
 - Salesforce Certified: **AI Associate**  
 - 🥇 1st Place – Innovation Day @ TIT Bhopal  
 - 🎯 4th Place – Logic League Coding Contest  
-- Internship & Bootcamp certificates from Codematics and Coding Blocks  
+- Internship & Bootcamp certificates from Codematics
 
 ---
 
