@@ -26,45 +26,52 @@
 
 ### 💼 Experience
 
-**AI Automations Intern** @ Codematics Solutions LLP (Jun 2024 – Dec 2024)  
-- Developed automation systems reducing operational cost by 70%  
-- Cleaned & analyzed datasets with 200k+ rows using Pandas  
-- Designed and deployed full AI pipelines
+**Backend Intern — AI Gateway** · Truefoundry · Jun–Dec 2025
+- Integrated Sentry monitoring and authored unit/integration tests, reducing debugging time by 30%
+- Automated AWS Bedrock pricing data extraction via Python pipeline for real-time cost tracking
+- Migrated legacy API calls to Python SDK architecture, improving AI service performance by 20%
+
+**AI Automations Intern** · Codematics Solutions LLP · Jun–Dec 2024
+- Designed AI-powered automation workflows using Make.com and Zapier, saving 40+ hrs/week
+- Built data preprocessing pipelines on 200,000+ rows, cutting operational costs by 70%
 ---
 
 ### 🏆 Achievements
 
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**  
-- Salesforce Certified: **AI Associate**  
-- 🥇 1st Place – Innovation Day @ TIT Bhopal  
-- 🎯 4th Place – Logic League Coding Contest  
-- Internship & Bootcamp certificates from Codematics
+- 🏆 **BOB Hackathon Finalist** — Chat With PDF
+- ☁️ **Microsoft Certified** — Azure Fundamentals (AZ-900)
+- 🤖 **Salesforce Certified** — AI Associate
+- 🥇 **1st Place** — Innovation Day, TIT-E Bhopal (15 teams)
+- 🏅 **4th Place** — Logic League Coding Contest, TIT Bhopal (60 candidates)
+- 🌍 **Meta Hacker Cup 2023** — Cleared Round 1 (Rank 6,262 globally)
 
 ---
 
 ### 🚀 Projects
 
-| 🧩 Project | Description | Links |
-|-----------|-------------|-------|
-| **Chat With PDF** | ChatGPT-like PDF query tool using LangChain & Streamlit | [App](https://chat-pdf-app.streamlit.app/) |
-| **Image Captioning System** | End-to-end caption generator (CNN + LSTM) | [Repo](https://github.com/SamarthKuchya/Image-Caption) |
-| **Sentiment Analyzer** | LSTM model for sentiment detection with 79% accuracy | [Repo](https://github.com/SamarthKuchya/Sentiments-Analyser) |
-| **Digit Recognition (MNIST)** | CNN model with 98.76% accuracy | [Repo](https://github.com/SamarthKuchya/MNIST) |
-| **Face Recognition** | Face detection using OpenCV + KNN | [Repo](https://github.com/SamarthKuchya/Face-Recognition-Project) |
-| **Telegram News Bot** | Sends real-time top 5 news updates via Telegram | [Bot](https://t.me/news_sambot) |
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Dev Buddy** | Multi-agent AI system that generates full web apps from a text prompt | LangGraph · FastAPI · Groq · Gemini · Ollama | [GitHub](https://github.com/SamarthKuchya/dev-buddy) · [Live](https://devbuddy-dtws.onrender.com) |
+| **Chat With PDF** | RAG app — chat with any PDF using vector search and LLM | LangChain · FAISS · Gemini · Streamlit | [GitHub](https://github.com/SamarthKuchya/Chat-with-PDF) · [Live](https://chat-pdf-app.streamlit.app/) |
+| **Sentiment Analyser** | LSTM-based 6-class emotion classifier on 16k+ samples | TensorFlow · LSTM · GloVe · Flask | [GitHub](https://github.com/SamarthKuchya/Sentiments-Analyser) |
+| **Image Captioning** | CNN-LSTM caption generator with attention on Flickr8k | TensorFlow · CNN · LSTM · Transfer Learning | [GitHub](https://github.com/SamarthKuchya/Image-Caption) |
+| **Telegram News Bot** | Sends real-time top 5 news updates via Telegram | Python · NewsAPI · Telegram Bot API | [Bot](https://t.me/news_sambot) |
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarthKuchya&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKuchya&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarthKuchya&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKuchya&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
 
 ---
 
-> “Building smart, scalable, and intelligent systems is more than a goal—it's a passion.”  
+<div align="center">
+  <i>Open to GenAI / ML Engineer roles — reach me at samarthkuchya@gmail.com</i>
+</div>
+“Building smart, scalable, and intelligent systems is more than a goal—it's a passion.”  
 > – Samarth Kumar Kuchya
 
 <!---
