@@ -51,7 +51,7 @@
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **Dev Buddy** | Multi-agent AI system that generates full web apps from a text prompt | LangGraph · FastAPI · Groq · Gemini · Ollama | [GitHub](https://github.com/SamarthKuchya/dev-buddy) · [Live](https://devbuddy-dtws.onrender.com) |
+| **Dev Buddy** | Multi-agent AI system that generates full web apps from a text prompt | LangGraph · FastAPI · Groq · Gemini · Ollama | [GitHub](https://github.com/SamarthKuchya/DevBuddy) · [Live](https://devbuddy-dtws.onrender.com) |
 | **Chat With PDF** | RAG app — chat with any PDF using vector search and LLM | LangChain · FAISS · Gemini · Streamlit | [GitHub](https://github.com/SamarthKuchya/Chat-with-PDF) · [Live](https://chat-pdf-app.streamlit.app/) |
 | **Sentiment Analyser** | LSTM-based 6-class emotion classifier on 16k+ samples | TensorFlow · LSTM · GloVe · Flask | [GitHub](https://github.com/SamarthKuchya/Sentiments-Analyser) |
 | **Image Captioning** | CNN-LSTM caption generator with attention on Flickr8k | TensorFlow · CNN · LSTM · Transfer Learning | [GitHub](https://github.com/SamarthKuchya/Image-Caption) |
